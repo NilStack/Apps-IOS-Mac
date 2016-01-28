@@ -29,6 +29,7 @@
 * [edhita](https://github.com/tnantoka/edhita)：Fully open source text editor for iOS written in Swift.
 * [Anypic](https://github.com/ParsePlatform/Anypic)：An open source mobile and web app that lets users share photos similar to Instagram
 * [Coding-iOS](https://github.com/Coding/Coding-iOS)：Coding iOS 客户端源代码
+* [furni-ios](https://github.com/twitterdev/furni-ios):Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform
 
 
 
