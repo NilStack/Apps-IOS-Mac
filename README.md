@@ -80,5 +80,6 @@
 * [MyMacMusicPlayer](https://github.com/isaced/MyMacMusicPlayer)：Mac音乐播放器
 * [Clipy](https://github.com/Clipy/Clipy)：Clipy is a Clipboard extension app for Mac OSX.
 * [pecunia-client](https://github.com/pecuniabanking/pecunia-client)：Pecunia is an Open Source HBCI Banking solution written natively for Mac OS X.
+* [compute-for-humanity-app](https://github.com/ComputeForHumanity/compute-for-humanity-app):Compute for Humanity is an OS X app and server program that work together to raise money for charities using low-energy distributed cryptocurrency mining.
 
 
