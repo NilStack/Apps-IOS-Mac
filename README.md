@@ -1,5 +1,7 @@
 ##ios apps
-
+* [ds_ios](https://github.com/doushiDev/ds_ios)：逗视iOS客户端
+* [Buck_Tracker](https://github.com/hkalexling/Buck_Tracker)：An iOS expense tracker app written in Swift
+* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U)：RSS reader app written in Swift 2.0, and yes, software design is pretty good here.
 * [Monkey](https://github.com/coderyi/Monkey)：Monkey is a GitHub third party client,Monkey is a program ape. 
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather)：SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language.
 * [HackerNews](https://github.com/amitburst/HackerNews)：A Hacker News reader iOS app written in Swift.
@@ -76,5 +78,7 @@
 * [iro](https://github.com/ripeworks/iro)：Color picker menu bar app for Mac OSX 10.9+
 * [gtm-session-fetcher](https://github.com/google/gtm-session-fetcher)：Google Toolbox for Mac - Session Fetcher
 * [MyMacMusicPlayer](https://github.com/isaced/MyMacMusicPlayer)：Mac音乐播放器
+* [Clipy](https://github.com/Clipy/Clipy)：Clipy is a Clipboard extension app for Mac OSX.
+* [pecunia-client](https://github.com/pecuniabanking/pecunia-client)：Pecunia is an Open Source HBCI Banking solution written natively for Mac OS X.
 
 
