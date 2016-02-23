@@ -1,4 +1,13 @@
+##Swift server framework
+
+* [vapor](https://github.com/qutheory/vapor)：Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+* [Kitura](https://github.com/IBM-Swift/Kitura)：Web framework and HTTP server for Swift
+* [Swifton](https://github.com/necolt/Swifton)：A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X
+* []()：
+
+
 ##ios apps
+* [Yep](https://github.com/CatchChat/Yep)：Meet Genius http://soyep.com
 * [ds_ios](https://github.com/doushiDev/ds_ios)：逗视iOS客户端
 * [Buck_Tracker](https://github.com/hkalexling/Buck_Tracker)：An iOS expense tracker app written in Swift
 * [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U)：RSS reader app written in Swift 2.0, and yes, software design is pretty good here.
